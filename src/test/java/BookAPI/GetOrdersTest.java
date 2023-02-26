@@ -12,9 +12,9 @@ import java.util.Map;
 import static io.restassured.RestAssured.*;
 //wildcard
 
-public class GetBookTest {
+public class GetOrdersTest {
 
-    public GetBookTest(){}
+    public GetOrdersTest(){}
 
     @Test
     public void testGetListBooks(){
